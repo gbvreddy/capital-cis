@@ -1,7 +1,7 @@
 package com.companyname.bank;
-
+//this is java
 /**
- * Hello world!
+ * Hello world !
  *
  */
 public class App 
